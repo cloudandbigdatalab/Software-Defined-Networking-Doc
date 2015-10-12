@@ -5,7 +5,7 @@ Documentation
 Please follow the directory structure as shown below
 
 ```
-  Software-Defined-Storage-Doc
+  Software-Defined-Networking-Doc
     - Raw
       - Week1-Chameleon-Ceph-Deployment
         - Version-1
